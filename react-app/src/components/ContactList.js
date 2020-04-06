@@ -3,8 +3,8 @@ import Contact from './Contact';
 
   const users = [
     {
-      name: 'Robert Reyes',
-      avatar: 'https://randomuser.me/api/portraits/men/28.jpg',
+      name: 'Louella Woods',
+      avatar: 'https://randomuser.me/api/portraits/women/19.jpg',
       online: false
     },
     {
@@ -13,13 +13,13 @@ import Contact from './Contact';
       online: true
     },
     {
-      name: 'Vernon Mason',
-      avatar: 'https://randomuser.me/api/portraits/men/84.jpg',
+      name: 'Jacqueline Riley',
+      avatar: 'https://randomuser.me/api/portraits/women/66.jpg',
       online: true
     },
     {
       name: 'Erica Hunt',
-      avatar: 'https://randomuser.me/api/portraits/women/87.jpg',
+      avatar: 'https://randomuser.me/api/portraits/women/57.jpg',
       online: false
     },
     {
